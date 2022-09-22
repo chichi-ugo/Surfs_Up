@@ -21,14 +21,15 @@ app = Flask(__name__)
 def welcome():
     return(
     '''
-    Welcome to the Hawaii Climate Analysis API!
-    \n Available Routes:
-    /api/v1.0/precipitation 
-    /api/v1.0/stations
-    /api/v1.0/tobs 
+    Welcome to the Hawaii Climate Analysis API!<br/>
+    <br/>
+    Available Routes: <br/>
+    <br/>
+    /api/v1.0/precipitation<br/>
+    /api/v1.0/stations<br/>
+    /api/v1.0/tobs<br/>
     /api/v1.0/temp/start/end 
-    '''
-    )
+    ''')
 
 @app.route("/api/v1.0/precipitation")
 def precipitation():
