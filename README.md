@@ -8,4 +8,6 @@ The goal of this analysis was to reveiw the provided dataset of weather conditio
 ## Results
 
 
+![June Temps Data Summary](https://raw.githubusercontent.com/chichi-ugo/Surfs_Up/381ef7d9eedeab76e9af7ce0cf683c0d2e5d0fc1/images/June_temps_sum.PNG)
+
 ## Summary
