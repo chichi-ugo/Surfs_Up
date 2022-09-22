@@ -17,7 +17,7 @@ Below depicts the summary tables for those months:
 From this data, we observe:
 - The average temperature for June is about $75{\textdegree}$ and the average for December is about $71{\textdegree}$. 
 - The maximum temperatures in June and December are $85{\textdegree}$ and $83{\textdegree}$ respectively.
-- the minimum temperatures in June and December are $64{\textdegree}$ and $56{\textdegree}$ respectively.
+- The minimum temperatures in June and December are $64{\textdegree}$ and $56{\textdegree}$ respectively.
 
 We see that these values are very close together, which could indicate that the weather maintains around a moderate temperature year-round.
 
